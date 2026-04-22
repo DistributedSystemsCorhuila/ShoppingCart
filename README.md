@@ -2,8 +2,10 @@
 
 API REST para gestión de carrito de compras desarrollada con **Spring Boot 3.5**, **PostgreSQL** y documentada con **Swagger UI**.
 
-> **Institución:** CorHuila  
-> **Materia:** Sistemas Distribuidos — Cuarto Semestre
+> **Proyecto:** Carrito de Compras  
+> **Autor:** Juan Carlos Tamayo Andrade  
+> **Institución:** Universidad CorHuila  
+> **Materia:** Sistemas Distribuidos
 
 ---
 
@@ -260,4 +262,4 @@ POST /api/v1/orders/checkout/1
 
 ## 📄 Licencia
 
-MIT License — © 2026 CorHuila
+ © 2026 CorHuila
